@@ -1,0 +1,91 @@
+@media (max-width: 1199.5px) {
+    /* Custom CSS */
+    .card {
+      padding: 2.5rem 1.875rem;
+    }
+  
+    .header_wrapper .navbar-nav .nav-link {
+      font-size: 1rem;
+    }
+  
+    .banner_wrapper .animate-img .aimg2 {
+      left: -3.125rem;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    /* Custom CSS */
+    .wrapper {
+      padding: 3.125rem 0;
+    }
+  
+    .main-btn {
+      font-size: 0.875rem; /* Fixed typo */
+    }
+  
+    h1 {
+      font-size: 2.8125rem;
+      margin-bottom: 0.625rem;
+    }
+  
+    h2 {
+      font-size: 1.875rem;
+    }
+  
+    h3 {
+      font-size: 1.5625rem;
+    }
+  
+    h4 {
+      font-size: 1.25rem;
+    }
+  
+    h5 {
+      font-size: 1.125rem;
+    }
+  
+    p {
+      font-size: 0.875rem;
+      line-height: 1.35rem;
+    }
+  
+    .card {
+      padding: 1.875rem 1rem;
+    }
+  
+    .header-scrolled {
+      height: auto;
+    }
+  
+    .header_wrapper .menu-navbar-nav {
+      text-align: center;
+    }
+  
+    .header_wrapper .nav-item .nav-link {
+      margin-top: 0.9375rem;
+    }
+  
+    .banner_wrapper p {
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .main-btn {
+      font-size: 0.875rem; /* Fixed typo */
+    }
+  
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 2.5rem;
+    }
+  
+    h5 {
+      font-size: 1.25rem;
+    }
+  }
+  
+  @media (max-width: 360px) {
+    /* Add custom styles for very small screens if needed */
+  }
+  
